@@ -29,3 +29,6 @@ export default props => (
 
 console.log('Funcionou!')
 
+
+// importing css
+import './estilo.css'

@@ -5,7 +5,6 @@ class Pessoa {
   }
 
   toString(){
-   console.log(this.nome)
     return `Pessoa: ${this.nome}`;
   }
 }
